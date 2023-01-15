@@ -1,0 +1,8 @@
+{
+    "platform": "laravel",
+    "app": "library-mobile1",
+    "laravel": {
+        "phpVersion": "8.1"
+    }
+   
+}
